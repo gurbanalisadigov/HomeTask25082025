@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\bin\Debug\net8.0\HomeTask24082025.exe
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\bin\Debug\net8.0\HomeTask24082025.deps.json
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\bin\Debug\net8.0\HomeTask24082025.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\bin\Debug\net8.0\HomeTask24082025.dll
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\bin\Debug\net8.0\HomeTask24082025.pdb
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.dll
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\refint\HomeTask24082025.dll
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.pdb
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\HomeTask24082025.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\HomeTask24082025\obj\Debug\net8.0\ref\HomeTask24082025.dll
